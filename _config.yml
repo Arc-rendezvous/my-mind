@@ -29,7 +29,6 @@ linkedin_username: gunawanlgmarbun
 github_username: Arc-rendezvous
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 

@@ -22,8 +22,8 @@ title: My Mind
 email: gunawan.marbun.lumbangaol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Random bits of thoughts and ideas in one place.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://https://arc-rendezvous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-mind" # the subpath of your site, e.g. /blog
+url: arc-rendezvous.github.io # the base hostname & protocol for your site, e.g. http://example.com
 rss: rss
 linkedin_username: gunawanlgmarbun
 github_username: Arc-rendezvous

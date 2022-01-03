@@ -121,6 +121,10 @@
   margin-left: 0;
 }
 
+.wrapper {
+  text-align: center;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
